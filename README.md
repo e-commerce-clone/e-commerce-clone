@@ -14,5 +14,5 @@
 | [전지희](https://github.com/GHeeJeon)  | `데이터베이스` | `기획` |
 | [조성빈](https://github.com/hseol)  | `백엔드` | `프론트엔드` |   
    
-### Development environment & Tech stack   
+> Development environment & Tech stack   
 `Windows 10` `macOS` `python` `django` `AWS`
