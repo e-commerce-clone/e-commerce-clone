@@ -16,3 +16,12 @@
    
 > Development environment & Tech stack   
 `Windows 10` `macOS` `python` `django` `AWS`
+
+![issue badge](https://img.shields.io/badge/Windows10-0b1a7a)
+![issue badge](https://img.shields.io/badge/MacOS-f9faf5)
+![issue badge](https://img.shields.io/badge/Python-4c82a6)
+![issue badge](https://img.shields.io/badge/Django-064217)
+![issue badge](https://img.shields.io/badge/HTML-eb5b0e)
+![issue badge](https://img.shields.io/badge/CSS-1e9be3)
+![issue badge](https://img.shields.io/badge/JavaScript-ffee00)
+![issue badge](https://img.shields.io/badge/AWS-ff9d00)
