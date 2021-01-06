@@ -7,12 +7,12 @@
 ### 파트 분담   
 | 이름  |  메인 역할  | 보조 역할 |
 |:----:|:-------:|:-------:|
-| [이도현](https://github.com/ksmfou98) | `기획`, `데이터베이스` | `프론트엔드` |
+| [이도현](https://github.com/ksmfou98) | `기획`, `프론트엔드` | `데이터베이스` |
 | [박보영](https://github.com/boyouth) | `백엔드` | `프론트엔드` |
-| [장성태](https://github.com/mungiyo) | `백엔드` | `프론트엔드` |
+| [장성태](https://github.com/mungiyo) | `백엔드` | `데이터베이스` |
 | [김지영](https://github.com/Jeong-jeong)  | `프론트엔드` | `기획` |
 | [전지희](https://github.com/GHeeJeon)  | `데이터베이스` | `기획` |
-| [조성빈](https://github.com/hseol)  | `백엔드` | `프론트엔드` |   
+| [조성빈](https://github.com/hseol)  | `백엔드` | `데이터베이스` |   
    
 > Development environment & Tech stack   
 `Windows 10` `macOS` `python` `django` `AWS`
