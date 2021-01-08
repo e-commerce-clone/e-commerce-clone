@@ -24,4 +24,4 @@
 | [장성태](https://github.com/mungiyo) | `백엔드` | `데이터베이스` |
 | [김지영](https://github.com/Jeong-jeong)  | `프론트엔드` | `기획` |
 | [전지희](https://github.com/GHeeJeon)  | `데이터베이스` | `기획` |
-| [조성빈](https://github.com/hseol)  | `백엔드` | `데이터베이스` |   
+| [조성빈](https://github.com/hseol)  | `백엔드` | `-` |   
