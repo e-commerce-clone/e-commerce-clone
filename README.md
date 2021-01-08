@@ -14,14 +14,14 @@
 2020.12.23. organization 생성   
 2020.12.23. [1주차 회의](https://github.com/e-commerce-clone/e-commerce-clone/blob/main/MOM/1st_week.pdf)  
 2020.12.31. [2주차 회의](https://github.com/e-commerce-clone/e-commerce-clone/blob/main/MOM/2nd_week.pdf)  
-2021.01.07. [3주차 회의](add link here)  
+2021.01.07. [3주차 회의](https://github.com/e-commerce-clone/e-commerce-clone/blob/main/MOM/3rd_week.pdf)  
    
 ### 파트 분담   
 | 이름  |  메인 역할  | 보조 역할 |
 |:----:|:-------:|:-------:|
-| [이도현](https://github.com/ksmfou98) | `기획`, `프론트엔드` | `-` |
+| [이도현](https://github.com/ksmfou98) | `프론트엔드` | `기획` |
 | [박보영](https://github.com/boyouth) | `백엔드` | `프론트엔드` |
 | [장성태](https://github.com/mungiyo) | `백엔드` | `백엔드` |
 | [김지영](https://github.com/Jeong-jeong)  | `프론트엔드` | `기획` |
-| [전지희](https://github.com/GHeeJeon)  | `백엔드` | `기획` |
-| [조성빈](https://github.com/hseol)  | `백엔드` | `-` |   
+| [전지희](https://github.com/GHeeJeon)  | `기획` | `프론트엔드` |
+| [조성빈](https://github.com/JO-SB)  | `백엔드` | `-` |   
