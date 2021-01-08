@@ -15,8 +15,6 @@
 | [조성빈](https://github.com/hseol)  | `백엔드` | `데이터베이스` |   
    
 > Development environment & Tech stack   
-`Windows 10` `macOS` `python` `django` `AWS`
-
 ![issue badge](https://img.shields.io/badge/Windows10-0b1a7a)
 ![issue badge](https://img.shields.io/badge/MacOS-f9faf5)
 ![issue badge](https://img.shields.io/badge/Python-4c82a6)
