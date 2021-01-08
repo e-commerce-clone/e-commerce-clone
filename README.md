@@ -1,5 +1,6 @@
 # e-commerce-clone
 ### 인천대학교 학생들의 쇼핑몰 클론 프로젝트 (2020.12.23 ~ 2021.03.17)   
+#### INU-cloner라면 누구든 추가 및 수정 가능합니다. 실수로 무언가 지워도 대부분 복구가 가능하니 안심하세요!
 2020.12.23. organization 생성   
 2020.12.23. [1주차 회의](https://github.com/e-commerce-clone/e-commerce-clone/blob/main/MOM/1st_week.pdf)  
 2020.12.31. [2주차 회의](https://github.com/e-commerce-clone/e-commerce-clone/blob/main/MOM/2nd_week.pdf)  
