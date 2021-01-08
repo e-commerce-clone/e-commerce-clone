@@ -1,8 +1,8 @@
 # e-commerce-clone
 ### 인천대학교 학생들의 쇼핑몰 클론 프로젝트 (2020.12.23 ~ 2021.03.17)   
 2020.12.23. organization 생성   
-2020.12.23. [1주차 회의](add link here)  
-2020.12.31. [2주차 회의](add link here)  
+2020.12.23. [1주차 회의](https://github.com/e-commerce-clone/e-commerce-clone/blob/main/MOM/1st_week.pdf)  
+2020.12.31. [2주차 회의](https://github.com/e-commerce-clone/e-commerce-clone/blob/main/MOM/2nd_week.pdf)  
 2021.01.07. [3주차 회의](add link here)  
    
 ### 파트 분담   
