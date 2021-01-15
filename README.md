@@ -15,7 +15,7 @@
 2020.12.23. [1주차 회의](https://github.com/e-commerce-clone/e-commerce-clone/blob/main/MOM/1st_week.pdf)  
 2020.12.31. [2주차 회의](https://github.com/e-commerce-clone/e-commerce-clone/blob/main/MOM/2nd_week.pdf)  
 2021.01.07. [3주차 회의](https://github.com/e-commerce-clone/e-commerce-clone/blob/main/MOM/3rd_week.pdf)  
-2021.01.14. [4주차 회의](https://github.com/e-commerce-clone/e-commerce-clone/blob/main/MOM/4st_week.pdf)  
+2021.01.14. [4주차 회의](https://github.com/e-commerce-clone/e-commerce-clone/blob/main/MOM/4_week.pdf)  
    
 ### 파트 분담   
 | 이름  |  메인 역할  | 보조 역할 |
