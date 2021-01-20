@@ -9,8 +9,7 @@
 ![issue badge](https://img.shields.io/badge/Windows10-0b1a7a)
 ![issue badge](https://img.shields.io/badge/MacOS-f9faf5)
 
-__클론 타겟은 온라인 식재료 판매업체 [마켓컬리](https://www.kurly.com) 입니다.__  
-__코드 원본에 명시된 `MIT License`에 따라 빠른 시일 내로 저작권 표시 및 허가 표시를 추가할 예정입니다.__
+__클론 타겟은 온라인 식재료 판매업체 [마켓컬리](https://www.kurly.com) 입니다.__
 
 
 ### 인천대학교 학생들의 쇼핑몰 클론 프로젝트 (2020.12.23 ~ 2021.03.17)   
