@@ -27,7 +27,7 @@ __코드 원본에 명시된 `MIT License`에 따라 빠른 시일 내로 저작
 |:----:|:-------:|:-------:|
 | [이도현](https://github.com/ksmfou98) | `프론트엔드` | `기획` |
 | [박보영](https://github.com/boyouth) | `백엔드` | `프론트엔드` |
-| [장성태](https://github.com/mungiyo) | `백엔드` | `백엔드` |
+| [장성태](https://github.com/mungiyo) | `백엔드` | `-` |
 | [김지영](https://github.com/Jeong-jeong)  | `프론트엔드` | `기획` |
 | [전지희](https://github.com/GHeeJeon)  | `기획` | `프론트엔드` |
 | [조성빈](https://github.com/JO-SB)  | `백엔드` | `-` |   
