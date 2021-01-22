@@ -20,7 +20,7 @@ __클론 타겟은 온라인 식재료 판매업체 [마켓컬리](https://www.k
 2020.12.31. [2주차 회의](https://github.com/e-commerce-clone/e-commerce-clone/blob/main/MOM/2nd_week.pdf)  
 2021.01.07. [3주차 회의](https://github.com/e-commerce-clone/e-commerce-clone/blob/main/MOM/3rd_week.pdf)  
 2021.01.14. [4주차 회의](https://github.com/e-commerce-clone/e-commerce-clone/blob/main/MOM/4th_week.pdf)  
-2021.01.121 [5주차 회의](https://github.com/e-commerce-clone/e-commerce-clone/blob/main/MOM/5th_week.pdf)    
+2021.01.21 [5주차 회의](https://github.com/e-commerce-clone/e-commerce-clone/blob/main/MOM/5th_week.pdf)    
    
 ### 파트 분담   
 | 이름  |  메인 역할  | 보조 역할 |
