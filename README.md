@@ -29,7 +29,6 @@ __클론 타겟은 온라인 식재료 판매업체 [마켓컬리](https://www.k
 | [박보영](https://github.com/boyouth) | `백엔드` | `프론트엔드` |
 | [장성태](https://github.com/mungiyo) | `백엔드` | `-` |
 | [김지영](https://github.com/Jeong-jeong)  | `프론트엔드` | `기획` |
-| [전지희](https://github.com/GHeeJeon)  | `기획` | `프론트엔드` |
 | [조성빈](https://github.com/JO-SB)  | `백엔드` | `-` |   
 
 ### 개발 현황
