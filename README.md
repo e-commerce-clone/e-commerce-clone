@@ -1,4 +1,6 @@
+
 # e-commerce-clone
+
 
 ![issue badge](https://img.shields.io/badge/Python-4c82a6)
 ![issue badge](https://img.shields.io/badge/Django-064217)
@@ -8,6 +10,7 @@
 ![issue badge](https://img.shields.io/badge/AWS-ff9d00)
 ![issue badge](https://img.shields.io/badge/Windows10-0b1a7a)
 ![issue badge](https://img.shields.io/badge/MacOS-f9faf5)
+
 
 __클론 타겟은 온라인 식재료 판매업체 [마켓컬리](https://www.kurly.com) 입니다.__
 
@@ -46,7 +49,7 @@ __클론 타겟은 온라인 식재료 판매업체 [마켓컬리](https://www.k
 
 
 
-##  UI / UX
+##  UI / UX (PC ver)
 
 <p align="center">
 <img src=""/>
@@ -60,3 +63,19 @@ __클론 타겟은 온라인 식재료 판매업체 [마켓컬리](https://www.k
 </br>
 
 </br>
+
+##  UI / UX (MOBILE ver)
+
+<p align="center">
+<img src=""/>
+
+</p>
+
+<p align="center">
+
+</p>
+
+</br>
+
+</br>
+
