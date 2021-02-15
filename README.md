@@ -49,7 +49,7 @@ __클론 타겟은 온라인 식재료 판매업체 [마켓컬리](https://www.k
 
 
 
-##  UI / UX (PC ver)
+##  UI / UX (PC .version)
 
 <p align="center">
 <img src=""/>
@@ -64,7 +64,7 @@ __클론 타겟은 온라인 식재료 판매업체 [마켓컬리](https://www.k
 
 </br>
 
-##  UI / UX (MOBILE ver)
+##  UI / UX (Mobile .version)
 
 <p align="center">
 <img src=""/>
