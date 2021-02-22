@@ -33,6 +33,7 @@ __클론 타겟은 온라인 식재료 판매업체 [마켓컬리](https://www.k
 2021.01.28. [6주차 회의](https://github.com/e-commerce-clone/e-commerce-clone/blob/main/MOM/6th_week.pdf)    
 2021.02.04. [7주차 회의](https://github.com/e-commerce-clone/e-commerce-clone/blob/main/MOM/7th_week.pdf)    
 2021.02.13. [8주차 회의](https://github.com/e-commerce-clone/e-commerce-clone/blob/main/MOM/8th_week.pdf)   
+2021.02.18. [9주차 회의](https://github.com/e-commerce-clone/e-commerce-clone/blob/main/MOM/9th_week.pdf)   
    
    
 </div>
